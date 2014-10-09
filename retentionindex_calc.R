@@ -1,5 +1,6 @@
 ##This script requires dplyr. Enter the retention times of your unknown, and the script will output the retention index
 
+library(plyr)
 suppressMessages(library(dplyr))
 
 
@@ -31,8 +32,9 @@ retention <- function(unknown) {
 }
 
 #the function retention takes as an argument the retention time of your unknown, and returns the retention index
-retention(11.157)
 
+#enter the retention times of your unknowns, if you have multiple unknowns
+times <- c(11.344, 11.374, 11.422, 11.482, 11.615, 11.771, 11.826, 11.988, 12.066, 12.4462, 13.042)
 
-
+lapply(X = times, FUN = retention)
 
