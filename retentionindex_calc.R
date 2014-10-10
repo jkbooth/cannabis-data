@@ -34,7 +34,9 @@ retention <- function(unknown) {
 #the function retention takes as an argument the retention time of your unknown, and returns the retention index
 
 #enter the retention times of your unknowns, if you have multiple unknowns
-times <- c(11.344, 11.374, 11.422, 11.482, 11.615, 11.771, 11.826, 11.988, 12.066, 12.4462, 13.042)
+times <- c(11.488, 11.561, 11.687)
 
 lapply(X = times, FUN = retention)
 
+alloaromadendrene <- retention(11.157)
+Bcaryophyllene <- retention(10.796)
