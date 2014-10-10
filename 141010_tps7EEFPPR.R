@@ -32,7 +32,18 @@ treat1 <- salldat %>%
 treat2 <- salldat %>%
   filter(assay.ID == 2)
 
-ggplot(salldat, aes(x = mins, y = IBB)) + geom_point() + geom_smooth(se = F) +
-  facet_wrap(facets = "assay.ID") + ggtitle("IBB increases?") + theme_bw()
-ggplot(salldat, aes(x = mins, y = peaks)) + geom_point() + geom_smooth(se = F) +
+ggplot(salldat, aes(x = mins, y = IBB)) + geom_point() + geom_smooth(se = F, method = "lm") +
+  facet_wrap(facets = "assay.ID") + ggtitle("IBB") + theme_bw() + ylab("IBB peak area")
+ggplot(salldat, aes(x = mins, y = peaks)) + geom_point(aes(colour = IBB)) + geom_smooth(se = F) +
   facet_wrap(facets = "assay.ID") + theme_bw() + ggtitle("total peak area")
+
+ibblm <- lm(data = alldat, IBB ~ mins)
+ibblm
+summary(ibblm)
+
+nalldat <- salldat %>%
+  mutate(normal = (peaks / IBB) * 100)
+nalldat %>%
+  select(peaks, IBB, normal)
+ggplot(nalldat, aes(x = mins, y = normal)) + geom_point() + geom_smooth(se = F) +
+  facet_wrap(facets = "assay.ID") + theme_bw() + ggtitle("normalized peak area")
