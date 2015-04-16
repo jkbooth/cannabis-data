@@ -1,26 +1,20 @@
 library(plyr)
 suppressMessages(library(dplyr))
 library(ggplot2)
+library(reshape)
 alldat <- read.delim("141010_tps7EEFPP.txt")
 #remove NAs
 alldat <- alldat[complete.cases(alldat),]
 str(alldat)
 tail(alldat)
-alldat <- tbl_df(alldat)
-glimpse(alldat)
 
-
-peaks <- names(alldat[,7:16])
-
-ddply(palldat, .variables = "ID", .fun = sum(palldat[,7:16]))
+peakns <- names(alldat[,7:16])
 
 #add unique numeric ID and sum of all product peaks
 salldat <- alldat %>%
   mutate(ID = 1:nrow(alldat))%>%
-  mutate(peaks = rowSums(temp[, c(7:16)]))
+  mutate(peaks = rowSums(alldat[, c(7:16)]))
 
-
-glimpse(salldat)
 
 ibbtime <- ggplot(salldat, aes(x = mins, y = IBB))
 ibbtime + geom_point() + geom_smooth(method = "lm")
@@ -47,3 +41,25 @@ nalldat %>%
   select(peaks, IBB, normal)
 ggplot(nalldat, aes(x = mins, y = normal)) + geom_point() + geom_smooth(se = F) +
   facet_wrap(facets = "assay.ID") + theme_bw() + ggtitle("normalized peak area")
+
+ggplot(salldat, aes(x = mins, y = p13.042)) + geom_point(aes(colour = assay.ID))
+
+testpeak <- "p10.772"
+along <- function(peak) {
+  return(ggplot(salldat, aes_string(x = "mins", y = peak)) + geom_point(aes(colour = assay.ID)))
+}
+along("p11.422")
+subs <- subset(salldat, select = c("ID", "assay.ID", peakns))
+subs
+
+subs$assay.ID <- as.character(subs$assay.ID)
+subst <- t(subs)
+
+mdf <- melt(salldat, ID = c("ID", "mins", "ID"), measure.vars = peakns)
+
+bypeak <- ggplot(mdf, aes(x = mins, y = value, group = variable, colour = variable)) +
+  geom_point() + geom_point() + geom_smooth(se = F)  + theme_bw() + ylab("peak area")
+bypeak + geom_point(aes(x = mdf$mins, y = mdf$peaks)) +
+  geom_smooth(aes(x = mdf$mins, y = mdf$peaks), size = 3, se = F)
+allplot <- ggplot(mdf, aes(x = mins, y = peaks)) + geom_point() + geom_smooth(aes(size = 3), se = F)
+allplot

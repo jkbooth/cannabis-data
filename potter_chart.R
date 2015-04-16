@@ -30,3 +30,11 @@ plot + xlab("Weeks Post Flowering") + ylab("% of total terpenes") + theme_few() 
 
 #exports the most recent plot to file:
 ggsave("potter_terpene_plot.png")
+
+cans <- c(8.17, 9.18, 9.16, 9.17, 8.55)
+candat <- data.frame(week = 1:5, CanContent = cans)
+
+plot2 <- ggplot(data = candat, aes(x = week, y = CanContent))
+plot2 + geom_point(size = 4) + theme_bw() + geom_line(size = 1.5) + xlab("Weeks Post Flowering") +
+  ylab("Cannabinoid content (%w/w)") + ggtitle("Cannabinoid content")
+ggsave("potter_cannabinoid_plot.png")

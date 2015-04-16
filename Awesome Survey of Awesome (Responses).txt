@@ -1,0 +1,212 @@
+Timestamp	Gender	Age	How extroverted are you?	How confident are you?	How individualistic are you?	How organized are you?	How dominant are you?	How impulsive are you?	How libidinous are you?	How ambitious are you?	How altruistic are you?	Sexual orientation	How courageous are you?	Which are most awesome?	Which are most awesome?	Who is most awesome?	Which is most awesome?	Which are most awesome?	Which are most awesome?	Which is most awesome?	Which are most awesome?	Who is most awesome?	Which is most awesome?	How detail oriented are you?	
+10/30/2014 23:55:01	Female	33		4	5		4	4	4	5	4	Bisexual		Vampires	Wizards	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 0:01:02	Female	44		4	5		3	2	2	3	4	Straight		Vampires	Knights	Batman		Pirates	Witches		Elves	King Arthur	Celtic Mythology		
+10/31/2014 0:10:37	Female	45		3	5		2	4	3	3	4	Gay/Lesbian		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+10/31/2014 0:11:39	Female	34		5	3		4	3	4	3	2	Bisexual		Vampires	Rogues	Batman		Pirates	Warrior Princesses		Elves	King Arthur	Norse Mythology		
+10/31/2014 0:33:30	Female	34		3	3		2	4	4	2	4	Other		Vampires	Rogues	Batman		Ninjas	Witches		Elves	Robin Hood	Greek Mythology		
+10/31/2014 0:37:14	Female	32		4	3		3	3	4	4	3	Straight		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 1:00:42	Female	33		4	5		4	3	4	3	5	Straight		Werewolves	Rogues	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 1:03:00	Female	39		3	3		2	2	4	3	2	Straight		Vampires	Wizards	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 2:22:33	Female	32		3	3		2	2	4	4	3	Bisexual		Vampires	Wizards	Superman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 3:49:28	Female	38		3	2		4	3	3	2	3	Bisexual		Vampires	Rogues	Batman		Pirates	Witches		Elves	King Arthur	Celtic Mythology		
+10/31/2014 5:43:55	Female	40		4	4		2	1	2	4	4	Straight		Vampires	Wizards	Batman		Pirates	Witches		Elves	King Arthur	Norse Mythology		
+10/31/2014 6:25:41	Female	33		3	3		4	5	3	1	3	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+10/31/2014 6:57:09	Male	32		4	4		4	5	3	4	3	Straight		Vampires	Knights	Batman		Pirates	Warrior Princesses		Dwarves	King Arthur	Norse Mythology		
+10/31/2014 7:48:41	Male	27		4	5		4	2	4	4	3	Straight		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 7:53:13	Male	28		4	3		4	3	4	3	4	Bisexual		Vampires	Rogues	Batman		Pirates	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+10/31/2014 8:04:11	Female	27		4	2		2	3	4	5	4	Other		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 8:19:44	Female	29		4	4		3	5	5	3	3	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 8:28:01	Female	25		4	3		4	2	3	4	3	Bisexual		Vampires	Wizards	Superman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 8:36:01	Female	57		3	2		3	5	2	3	3	Straight		Werewolves	Wizards	Superman		Pirates	Nymphs		Elves	Robin Hood	Greek Mythology		
+10/31/2014 8:38:51	Male	26		2	3		3	4	4	2	2	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	King Arthur	Norse Mythology		
+10/31/2014 8:39:03	Female	26		3	3		2	2	2	4	4	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 8:39:07	Female	31		3	5		2	3	1	4	3	Straight		Vampires	Knights	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 8:40:22	Male	44		3	1		3	2	2	2	5	Straight		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 8:40:38	Male	26		2	3		3	4	4	2	2	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	King Arthur	Norse Mythology		
+10/31/2014 8:47:49	Female	31		4	3		5	4	4	4	4	Bisexual		Vampires	Wizards	Batman		Pirates	Witches		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 8:50:56	Male	27		4	4		4	2	5	3	5	Other		Vampires	Rogues	Batman		Pirates	Witches		Dwarves	Robin Hood	Norse Mythology		
+10/31/2014 8:54:41	Female	26		3	2		3	2	2	3	3	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 8:54:48	Female	26		3	2		3	3	4	3	3	Straight		Vampires	Wizards	Batman		Ninjas	Witches		Elves	King Arthur	Norse Mythology		
+10/31/2014 8:55:09	Female	26		4	4		5	4	4	4	3	Other		Werewolves	Rogues	Batman		Ninjas	Nymphs		Dwarves	Robin Hood	Norse Mythology		
+10/31/2014 8:57:43	Male	30		3	3		4	4	3	3	3	Gay/Lesbian		Zombies	Wizards	Batman		Pirates	Warrior Princesses		Dwarves	Sherlock Holmes	Greek Mythology		
+10/31/2014 8:58:17	Female	26		3	2		3	3	3	3	3	Other		Vampires	Wizards	Superman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 9:00:02	Female	27		4	2		3	4	4	4	5	Straight		Werewolves	Knights	Batman		Pirates	Witches		Dwarves	Robin Hood	Norse Mythology		
+10/31/2014 9:00:17	Female	27		4	2		3	4	4	4	5	Straight		Werewolves	Knights	Batman		Pirates	Witches		Dwarves	Robin Hood	Norse Mythology		
+10/31/2014 9:15:41	Female	43		4	4		4	5	4	3	3	Bisexual		Vampires	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 9:17:59	Male	49		3	4		3	4	4	3	4	Straight		Zombies	Rogues	Batman		Pirates	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 9:20:28	Female	29		3	3		3	4	4	3	3	Bisexual		Vampires	Wizards	Superman		Cowboys	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 9:32:16	Female	25		3	2		3	2	3	4	2	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 9:35:14	Female	36		4	4		4	4	4	4	4	Straight		Zombies	Wizards	Superman		Ninjas	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+10/31/2014 9:35:41	Female	30		3	3		5	3	3	4	3	Bisexual		Vampires	Wizards	Batman		Cowboys	Witches		Elves	King Arthur	Greek Mythology		
+10/31/2014 9:37:57	Female	31		5	5		4	5	4	5	2	Bisexual		Zombies	Knights	Superman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 9:38:13	Female	24		4	2		2	1	3	5	4	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 9:46:24	Female			3	4		4	4	3	4	3	Bisexual		Vampires	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+10/31/2014 9:52:58	Female	31		4	3		3	3	4	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 10:08:49	Male	33		5	5		5	2	4	2	3	Straight		Werewolves	Knights	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 10:18:01	Male	27		4	4		3	3	4	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+10/31/2014 10:42:09	Female	27		4	4		5	3	3	5	4	Straight		Vampires	Knights	Batman		Pirates	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 11:11:18	Male	32		3	3		3	2	1	2	5	Asexual		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 11:31:46	Female	36		3	3		3	4	2	3	4	Straight		Vampires	Wizards	Superman		Ninjas	Warrior Princesses		Elves	King Arthur	Celtic Mythology		
+10/31/2014 12:00:33	Male	24		3	4		4	3	4	4	3	Straight		Vampires	Knights	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 12:49:19	Male	26		5	5		5	5	5	5	2	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+10/31/2014 12:49:34	Female	26		4	3		3	2	4	4	4	Bisexual		Vampires	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 12:50:30	Female	26		4	4		3	4	5	4	3	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 12:51:17	Female	25		4	3		4	2	4	2	4	Straight		Vampires	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 14:16:34	Female	34		3	4		2	3	4	3	2	Bisexual		Werewolves	Rogues	Batman		Pirates	Warrior Princesses		Dwarves	King Arthur	Celtic Mythology		
+10/31/2014 14:26:38	Female	23		4	3		4	2	4	3	3	Gay/Lesbian		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Robin Hood	Greek Mythology		
+10/31/2014 14:34:19	Female	30		4	3		2	4	5	2	4	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 15:24:08	Male	40		3	3		3	2	4	3	3	Straight		Zombies	Wizards	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 16:00:06	Female	28		3	2		3	4	4	3	3	Straight		Werewolves	Rogues	Batman		Pirates	Nymphs		Elves	Robin Hood	Celtic Mythology		
+10/31/2014 16:10:47	Female	38		5	3		3	4	4	4	5	Straight		Vampires	Rogues	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 16:18:46	Female	30		4	4		5	4	3	5	3	Bisexual		Werewolves	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 16:19:29		25		4	3		3	2	3	3	3	Bisexual		Vampires	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 16:34:21	Female	35		5	4		3	2	5	5	3	Bisexual		Vampires	Wizards	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 16:46:48	Female	45		3	2		3	2	2	2	3	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 17:08:47	Female	44		4	5		3	4	4	2	4	Straight		Werewolves	Wizards	Superman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 17:12:31	Male	27		3	3		4	5	2	2	1	Straight		Zombies	Rogues	Batman		Pirates	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+10/31/2014 17:53:39	Male	60		4	3		3	3	2	4	3	Straight		Werewolves	Wizards			Ninjas			Dwarves	Sherlock Holmes	Norse Mythology		
+10/31/2014 18:03:01	Female	46		4	3		3	4	4	3	3	Straight		Vampires	Wizards	Superman		Cowboys	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+10/31/2014 18:21:03	Male	33		4	4		3	3	3	3	4	Straight		Zombies	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 19:36:03	Male	30		4	4		3	3	3	3	5	Straight		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Norse Mythology		
+10/31/2014 19:37:51	Male	44		5	5		5	3	3	3	3	Straight		Zombies	Knights	Superman		Cowboys	Warrior Princesses		Dwarves	Sherlock Holmes	Greek Mythology		
+10/31/2014 19:43:38	Female	22		3	4		3	2	4	4	4	Straight		Werewolves	Wizards	Superman		Ninjas	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 20:28:50	Female	27		4	5		2	3	5	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+10/31/2014 20:30:32	Female	27		3	4		3	2	1	5	2	Straight		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Dwarves	Sherlock Holmes	Norse Mythology		
+10/31/2014 20:58:42	Male	26		3	2		4	3	3	4	4	Straight		Vampires	Rogues	Batman		Ninjas	Witches		Dwarves	Sherlock Holmes	Norse Mythology		
+11/1/2014 0:40:37	Female	33		3	1		4	3	4	2	3	Bisexual		Werewolves	Rogues	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/1/2014 1:19:19	Female	29		4	3		3	3	4	5	4	Bisexual		Werewolves	Wizards	Batman		Pirates	Witches		Dwarves	Sherlock Holmes	Celtic Mythology		
+11/1/2014 2:50:12	Female	22		4	4		4	3	3	5	4	Straight		Vampires	Rogues	Batman		Pirates	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/1/2014 7:30:13	Female	26		4	3		2	2	3	2	2	Straight		Vampires	Rogues	Batman		Pirates	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+11/1/2014 9:08:11	Other	22		2	4		3	3	2	2	4	Other		Vampires	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+11/1/2014 10:10:52	Female	34		3	4		4	3	2	2	5	Straight		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+11/1/2014 10:26:26	Female	33		4	4		4	2	2	3	5	Straight		Vampires	Wizards	Superman		Pirates	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+11/1/2014 10:33:15	Female	29		4	2		3	3	4	4	3	Straight		Vampires	Knights	Superman		Cowboys	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/1/2014 10:40:00	Female	36		3	4		3	3	4	4	4	Straight		Vampires	Wizards	Batman		Pirates	Warrior Princesses		Dwarves	Sherlock Holmes	Norse Mythology		
+11/1/2014 10:46:38	Female	33		4	4		3	4	4	5	3	Straight		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+11/1/2014 11:02:26	Male	22		5	4		3	4	5	4	4	Straight		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+11/1/2014 11:24:54	Female	23		4	3		4	5	5	3	3	Bisexual		Vampires	Wizards	Superman		Ninjas	Nymphs		Elves	Robin Hood	Greek Mythology		
+11/1/2014 11:48:16	Male	30		4	5		3	2	5	3	4	Straight		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/1/2014 12:12:37	Male	38		2	2		3	1	5	3	3	Straight		Zombies	Knights	Batman		Ninjas	Witches		Dwarves	King Arthur	Greek Mythology		
+11/1/2014 12:26:21	Female			3	4		2	4	3	2	3	Straight		Vampires	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/1/2014 12:31:57	Male	40		3	4		3	4	5	5	5	Gay/Lesbian		Vampires	Rogues	Batman		Ninjas	Witches		Elves	King Arthur	Celtic Mythology		
+11/1/2014 12:48:56	Female	29		3	4		1	4	3	1	4	Bisexual		Werewolves	Wizards	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Celtic Mythology		
+11/1/2014 12:59:03	Female	31		2	4		3	4	3	3	4	Straight		Vampires	Wizards	Superman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/1/2014 13:02:38	Female	26		3	3		1	2	2	4	3	Bisexual		Vampires	Rogues	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/1/2014 15:34:21	Female	28		5	3		4	3	5	5	5	Straight		Vampires	Wizards	Superman		Ninjas	Witches		Elves	King Arthur	Greek Mythology		
+11/1/2014 15:36:20	Male	25		5	4		3	4	4	4	4	Other		Zombies	Wizards	Superman		Ninjas	Witches		Elves	Sherlock Holmes	Norse Mythology		
+11/1/2014 17:05:54	Male	44		4	3		5	4	5	4	4	Bisexual		Vampires	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+11/1/2014 17:25:32	Male	23		4	2		3	4	4	2	5	Straight		Werewolves	Rogues	Batman		Ninjas	Witches		Dwarves	King Arthur	Norse Mythology		
+11/1/2014 17:52:13	Male	26		3	3		2	2	3	1	3	Straight		Vampires	Wizards	Batman		Cowboys	Warrior Princesses		Dwarves	Robin Hood	Greek Mythology		
+11/1/2014 19:17:03	Male	23		4	4		5	4	3	3	3	Straight		Werewolves	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/1/2014 19:32:09	Male	26		3	3		2	2	5	2	4	Straight		Vampires	Wizards	Batman		Cowboys	Warrior Princesses		Dwarves	Sherlock Holmes	Norse Mythology		
+11/2/2014 0:28:04	Female	24		3	3		2	4	4	3	4	Other		Werewolves	Wizards	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 8:11:06				4	4		4	5	4	3	5			Vampires	Rogues	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 10:24:38	Female	25		5	4		2	2	5	4	4	Straight		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Robin Hood	Greek Mythology		
+11/2/2014 10:25:25	Female	28		3	3		1	2	5	2	3	Straight		Vampires	Rogues	Batman		Ninjas	Nymphs		Elves	King Arthur	Norse Mythology		
+11/2/2014 10:28:05	Female	23		3	4		1	2	3	4	2	Straight		Vampires	Rogues	Batman		Pirates	Nymphs		Elves	Robin Hood	Norse Mythology		
+11/2/2014 10:37:46	Female	24		4	3		2	3	3	4	4	Straight		Zombies	Wizards	Superman		Pirates	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+11/2/2014 10:39:36	Female	29		4	3		3	4	4	4	4	Bisexual		Werewolves	Knights	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 10:40:50	Female	26		4	4		3	2	3	4	3	Other		Vampires	Wizards	Batman		Pirates	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+11/2/2014 10:45:11	Female	29		1	2		1	2	2	2	3	Straight		Werewolves	Rogues	Superman		Ninjas	Warrior Princesses		Dwarves	King Arthur	Greek Mythology		
+11/2/2014 10:49:44	Male	29		3	4		3	4	3	2	3	Straight		Vampires	Rogues	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 10:59:36	Female	27		2	2		1	1	1	3	2	Straight		Vampires	Wizards	Superman		Pirates	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 11:09:08	Female	33		4	4		3	4	2	4	3	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/2/2014 11:12:03	Other	35		4	4		4	5	3	4	4	Other		Vampires	Wizards	Batman		Ninjas	Witches		Dwarves	Robin Hood	Norse Mythology		
+11/2/2014 11:19:37	Male	27		4	3		4	2	5	5	4	Straight		Vampires	Rogues	Superman		Pirates	Witches		Elves	Robin Hood	Celtic Mythology		
+11/2/2014 11:21:38	Female	43		3	2		4	3	4	2	3	Straight		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 11:33:21	Female	34		4	5		2	3	3	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 11:42:24	Female	28		3	2		4	4	3	4	4	Bisexual		Vampires	Knights	Superman		Cowboys	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+11/2/2014 11:54:29	Male	26		4	5		5	3	2	5	2	Bisexual		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 12:00:32	Male	24		4	3		4	4	4	4	3	Bisexual		Vampires	Knights	Superman		Cowboys	Nymphs		Elves	King Arthur	Greek Mythology		
+11/2/2014 12:07:20	Male	35		3	5		3	1	5	3	5	Straight		Zombies	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 12:14:42	Other	25		4	2		4	5	5	5	4	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Dwarves	Robin Hood	Greek Mythology		
+11/2/2014 12:16:48	Other	99		1	1		3	1	1	1	3	Other		Zombies	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 12:18:52	Female	28		5	4		3	2	5	5	4	Other		Werewolves	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 12:23:22	Female	27		4	4		3	4	3	4	4	Bisexual		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	King Arthur	Celtic Mythology		
+11/2/2014 12:23:49	Male	26		4	2		3	4	4	1	4	Straight		Werewolves	Rogues	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 12:30:53	Female	34		4	5		3	2	5	4	5	Straight		Werewolves	Wizards	Batman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 12:31:00	Male	22		3	3		4	2	2	3	3	Straight		Werewolves	Knights	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 12:36:27	Female	28		3	3		2	4	4	2	4	Straight		Vampires	Wizards	Batman		Ninjas	Nymphs		Elves	Robin Hood	Greek Mythology		
+11/2/2014 12:41:00	Female	30		3	2		4	2	5	3	3	Bisexual		Zombies	Wizards	Batman		Pirates	Witches		Elves	Robin Hood	Greek Mythology		
+11/2/2014 12:55:27	Female	30		4	4		3	4	5	2	3	Bisexual		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/2/2014 13:00:14	Female	27		4	4		3	4	4	4	3	Other		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 13:00:49	Female	28		3	2		3	2	4	4	3	Straight		Vampires	Rogues	Batman		Pirates	Witches		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 13:13:23	Female	30		4	5		3	4	5	5	4	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 13:14:48	Female	26		3	2		4	3	4	4	3	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 13:22:26	Male	26		4	4		3	3	4	4	4	Straight		Vampires	Rogues	Superman		Cowboys	Witches		Elves	King Arthur	Greek Mythology		
+11/2/2014 13:51:25	Female	26		4	4		4	3	4	3	4	Straight		Werewolves	Wizards	Batman		Pirates	Warrior Princesses		Dwarves	Sherlock Holmes	Norse Mythology		
+11/2/2014 14:11:37	Male	29		4	4		3	4	2	2	3	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/2/2014 14:15:14	Female	25		3	2		4	2	3	4	3	Straight		Werewolves	Wizards	Superman		Pirates	Warrior Princesses		Dwarves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 14:16:13	Female	25		3	2		4	2	3	4	3	Straight		Werewolves	Wizards	Superman		Pirates	Warrior Princesses		Dwarves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 14:17:31	Male	26		4	4		3	3	2	3	4	Straight		Werewolves	Rogues	Batman		Ninjas	Witches		Dwarves	Sherlock Holmes	Norse Mythology		
+11/2/2014 15:54:01	Female	27		3	3		2	3	2	3	4	Bisexual		Werewolves	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 16:12:02	Male	27		4	3		3	4	4	4	4	Straight		Vampires	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 16:56:46	Female	24		3	2		4	4	5	3	4	Bisexual		Vampires	Wizards	Batman		Ninjas	Nymphs		Elves	Robin Hood	Greek Mythology		
+11/2/2014 17:02:47	Female	25		4	3		3	4	4	4	3	Straight		Werewolves	Wizards	Batman		Pirates	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 17:47:32	Female	35		3	2		4	1	1	3	3	Straight		Werewolves	Wizards	Superman		Cowboys	Warrior Princesses		Elves	King Arthur	Celtic Mythology		
+11/2/2014 17:54:50	Male	26		5	5		4	4	4	4	4	Gay/Lesbian		Werewolves	Wizards	Batman		Cowboys	Witches		Elves	Robin Hood	Celtic Mythology		
+11/2/2014 17:57:33	Female	25		3	4		3	3	2	3	2	Bisexual		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 18:18:11	Female	28		4	4		2	3	3	5	4	Bisexual		Werewolves	Wizards	Superman		Pirates	Nymphs		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 18:32:15	Female	24		4	3		3	4	3	4	3	Bisexual		Vampires	Wizards	Batman		Pirates	Nymphs		Dwarves	Sherlock Holmes	Norse Mythology		
+11/2/2014 19:36:00																									
+11/2/2014 20:09:50	Male	27		4	5		2	2	3	3	4	Bisexual		Vampires	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+11/2/2014 20:26:34	Female	34		4	4		3	3	3	4	4	Straight		Vampires	Rogues	Batman		Cowboys	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/2/2014 20:27:21	Female	32		3	3		3	4	3	3	4	Straight		Werewolves	Wizards	Batman		Cowboys	Warrior Princesses		Elves	Sherlock Holmes	Celtic Mythology		
+11/2/2014 20:40:33	Female	25		5	4		4	3	5	3	2	Straight		Vampires	Wizards	Superman		Pirates	Witches		Elves	Robin Hood	Greek Mythology		
+11/2/2014 23:12:23	Female	25		4	3		4	2	5	4	3	Straight		Werewolves	Wizards	Batman		Ninjas	Witches		Elves	Robin Hood	Greek Mythology		
+11/3/2014 0:32:41	Female	25		4	2		3	3	2	4	4	Straight		Vampires	Wizards	Superman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/3/2014 7:24:50	Male	24		3	2		3	4	3	4	3	Straight		Werewolves	Knights	Superman		Pirates	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/3/2014 7:26:17	Male	42		3	4		4	2	3	3	4	Straight		Werewolves	Wizards	Batman		Cowboys	Witches		Dwarves	Sherlock Holmes	Norse Mythology		
+11/3/2014 8:11:15	Male	60		1	5		1	4	1	2	3	Straight		Vampires	Wizards			Pirates	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/3/2014 11:45:40	Female	28		4	4		2	4	4	4	4	Straight		Vampires	Wizards	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Norse Mythology		
+11/3/2014 11:59:26	Female	26		4	4		3	3	4	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/3/2014 12:30:10	Male	41		2	4		4	3	4	2	3	Straight		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/3/2014 15:11:54	Female	28		2	2		3	3	1	2	4	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Dwarves	Robin Hood	Celtic Mythology		
+11/3/2014 15:47:00	Male	31		4	3		2	3	4	3	4	Straight		Werewolves	Wizards			Ninjas	Warrior Princesses		Dwarves	Robin Hood	Norse Mythology		
+11/3/2014 17:30:53	Male	29		4	4		3	4	4	3	4	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Dwarves	Sherlock Holmes	Norse Mythology		
+11/4/2014 5:58:56	Male	27		3	2		2	2	4	5	4	Straight		Zombies	Rogues	Batman		Ninjas	Nymphs		Elves	Robin Hood	Celtic Mythology		
+11/4/2014 16:23:41	Female	28		4	3		4	2	3	3	3	Straight		Vampires	Rogues	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+11/4/2014 16:42:12	Male	28		3	2		4	3	5	1	5	Straight		Werewolves	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Norse Mythology		
+11/4/2014 16:45:56	Male	50		5	5		3	3	3	3	5	Straight		Werewolves	Rogues	Batman		Pirates	Warrior Princesses		Elves	Robin Hood	Celtic Mythology		
+11/4/2014 16:47:33	Female	35		3	3		3	1	3	3	4	Straight		Vampires	Wizards	Batman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/4/2014 16:55:04	Female	34		5	5		4	4	3	4	3	Straight		Vampires	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/4/2014 16:55:53	Other	44		4	5		3			3	4	Other		Werewolves	Rogues	Batman		Pirates	Witches		Elves	Robin Hood	Norse Mythology		
+11/4/2014 17:00:22	Female	31		3	2		2	3	4	4	3	Bisexual		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/4/2014 17:02:49	Male	61		5	5		3	3	4	5	3	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/4/2014 17:37:23	Female	25		1	2		4	2	4	3	3	Bisexual		Vampires	Wizards	Batman		Pirates	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+11/4/2014 17:39:40	Female	35		4	3		3	3	3	4	3	Straight		Vampires	Wizards	Superman		Cowboys	Witches		Elves	King Arthur	Celtic Mythology		
+11/4/2014 18:30:01	Female	65		4	5		3	4	3	5	4	Straight		Werewolves	Wizards	Superman		Cowboys	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+11/4/2014 18:39:05	Female	26		2	2		4	3	5	3	4	Straight		Werewolves	Knights	Batman		Ninjas	Nymphs		Elves	Robin Hood	Norse Mythology		
+11/4/2014 18:44:43	Male	39		3	4		2	5	4	1	5	Straight		Werewolves	Wizards	Superman		Ninjas	Nymphs		Elves	Robin Hood	Norse Mythology		
+11/4/2014 18:44:58	Male	26		4	4		3	4	4	4	5	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Greek Mythology		
+11/4/2014 18:58:43	Female	38		4	2		4	4	4	3	4	Bisexual		Vampires	Rogues	Batman		Ninjas	Warrior Princesses		Elves	Robin Hood	Greek Mythology		
+11/4/2014 19:31:26	Female	43		5	3		4	4	2	3	4	Straight		Vampires	Wizards	Batman		Ninjas	Warrior Princesses		Elves	Sherlock Holmes	Norse Mythology		
+11/4/2014 19:32:12	Male	65		4	2		3	3	4	3	4	Straight		Vampires	Wizards	Superman		Pirates	Witches		Elves	Robin Hood	Greek Mythology		
+11/4/2014 19:59:00	Female	18		4	5		4	4	3	4	5	Straight		Werewolves	Rogues	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+11/5/2014 7:56:03	Male	30		4	5		4	5	3	5	3	Straight		Zombies	Wizards	Batman		Ninjas	Witches		Dwarves	Robin Hood	Greek Mythology		
+11/5/2014 10:47:49	Male	51		4	5		3	4	2	3	2	Straight		Werewolves	Wizards	Superman		Ninjas	Warrior Princesses		Elves	King Arthur	Greek Mythology		
+11/5/2014 11:48:59	Male	30		4	5		4	5	3	5	3	Straight		Zombies	Wizards	Batman		Ninjas	Witches		Dwarves	Robin Hood	Greek Mythology		
+11/5/2014 12:14:32	Male	29		4	3		3	3	3	4	4	Straight		Werewolves	Rogues	Batman		Pirates	Nymphs		Dwarves	Sherlock Holmes	Greek Mythology		
+11/5/2014 21:04:22	Male	40		4	5		4	4	4	4	3	Straight		Vampires	Wizards	Superman		Ninjas	Warrior Princesses		Elves	King Arthur	Norse Mythology		
+11/6/2014 1:48:57	Male	26		2	1		3	4	3	5	5	Straight		Vampires	Wizards	Superman		Ninjas	Witches		Elves	Robin Hood	Greek Mythology		
+11/6/2014 10:00:51	Female	27		4	4		3	4	4	3	3	Straight		Werewolves	Wizards	Superman		Ninjas	Witches		Elves	Sherlock Holmes	Greek Mythology		
+11/6/2014 11:22:18	Male	24		4	2		3	4	5	4	4	Other		Vampires	Wizards	Superman		Pirates	Witches		Elves	Sherlock Holmes	Norse Mythology		
+11/7/2014 0:59:23	Male	37		4	4		3	3	3	3	3	Straight		Werewolves	Wizards	Batman		Cowboys	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+11/10/2014 11:18:56	Other	34		4	3		3	2	5	4	5	Other		Vampires	Wizards	Superman		Ninjas	Witches		Elves	Sherlock Holmes	Norse Mythology		
+11/13/2014 17:17:25	Female	23		4	5		4	2	1	3	4	Straight		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	King Arthur	Greek Mythology		
+11/18/2014 19:17:00	Female	18		2	4		4	2	1	4	3	Straight		Vampires	Wizards	Superman		Ninjas	Nymphs		Elves	Sherlock Holmes	Greek Mythology		
+12/2/2014 23:44:25	Female	25		2	3		2	3	1	4	3	Bisexual		Werewolves	Wizards	Batman		Ninjas	Nymphs		Elves	Sherlock Holmes	Celtic Mythology		
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

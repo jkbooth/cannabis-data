@@ -40,3 +40,4 @@ lapply(X = times, FUN = retention)
 
 alloaromadendrene <- retention(11.157)
 Bcaryophyllene <- retention(10.796)
+shift <- 18.5
